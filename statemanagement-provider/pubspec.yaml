@@ -1,0 +1,5 @@
+//tambahkan dependency
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5 //cek seri yang tepat
